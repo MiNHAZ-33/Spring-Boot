@@ -1,0 +1,7 @@
+package springdemo;
+
+public class BaseBallCoach {
+	public String getDailyWorkout() {
+		return "Spend 30 minutes on batting practise";
+	}
+}
